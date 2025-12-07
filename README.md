@@ -1,5 +1,5 @@
 
-# TUGAS-PRAKTIKUM-8-PERYEMUAN-12
+# TUGAS-PRAKTIKUM-8-PERTEMUAN-12
 # Nama   : Pahmi Dwika Fahlevi <br>
 # Nim    :312510389 <br>
 # Kelas  :TI.25.C5 <br>
